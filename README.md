@@ -1,6 +1,7 @@
 # space-invaders-mini
 This is a C++ Raylib game. 
 It is a clone of space invaders featuring three stages with increasing difficulty.
+It has two themes: normal, and dark.
 The goal is to dodge the turrets shot by the Enemies, and shoot our own to eliminate the enemies.
 Each Enemy turret deals 1-4 HP randomly on each hit.
 Each Player turret deals 1 HP to the enemy.
